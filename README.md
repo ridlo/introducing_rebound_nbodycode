@@ -1,1 +1,3 @@
-# introducing_rebound_nbodycode
+# Introducing Rebound
+
+for Python Coffee at ESO Vitacura
